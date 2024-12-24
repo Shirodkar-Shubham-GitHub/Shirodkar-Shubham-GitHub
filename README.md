@@ -2,7 +2,8 @@
 I'm a Python Developer passionate about building robust web applications and learning new technologies.  
 
 ## 🛠️ Skills
-- Python, Django, Django REST Framework
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+, Django, Django REST Framework
 - HTML5, CSS3, Bootstrap
 - SQL, MySQL, MongoDB
 
