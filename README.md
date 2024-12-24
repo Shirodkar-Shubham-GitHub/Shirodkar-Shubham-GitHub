@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shubham Shirodkar 👋
+I'm a Python Developer passionate about building robust web applications and learning new technologies.  
 
-<!--
-**Shirodkar-Shubham-GitHub/Shirodkar-Shubham-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Python, Django, Django REST Framework
+- HTML5, CSS3, Bootstrap
+- SQL, MySQL, MongoDB
 
-Here are some ideas to get you started:
+## 🌟 Projects
+- [Lett' uce Eat](https://github.com/Shirodkar-Shubham-GitHub/lettuce-eat): Online Food Ordering System
+- [Job Scraper and Portal](https://github.com/Shirodkar-Shubham-GitHub/job-scraper): Job search and management platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/shirodkar-shubham)
+- [GitHub](https://github.com/Shirodkar-Shubham-GitHub)
