@@ -1,4 +1,3 @@
-"""
 # 👨‍💻 Shubham Shirodkar | Python Developer Fresher
 
 **Hello! I'm Shubham Shirodkar, a passionate Python Developer Fresher dedicated to building robust web applications and data-driven solutions.**  
@@ -67,4 +66,3 @@ Data analysis project exploring trends in Diwali sales using Pandas and Matplotl
 ---
 
 Feel free to connect and collaborate! 🚀  
-"""
