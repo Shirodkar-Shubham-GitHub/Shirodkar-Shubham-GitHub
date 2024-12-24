@@ -36,7 +36,7 @@
 ### **Core Concepts**  
 - **Object-Oriented Programming**  
 - **Data Structures and Algorithms**  
-- **Object-Relational Mapping (ORM)**  
+- **Object-Relational Mapping**  
 
 ---
 
