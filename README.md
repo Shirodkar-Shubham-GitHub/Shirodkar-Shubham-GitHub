@@ -47,7 +47,7 @@ An online food ordering system for browsing dishes, managing a cart, and placing
 **GitHub Repo:** [Online_Food_Ordering_System](https://github.com/Shirodkar-Shubham-GitHub/Online_Food_Ordering_System)  
 
 ### [✅ Zomato Analysis](https://shubhamshirodkar990.pythonanywhere.com/)  
-Data analysis project exploring key trends in Zomato Analysis using Django, Pandas, Matplotlib, Seaborn.
+Data analysis project exploring key trends in Zomato Analysis using Django, Pandas, Matplotlib, Seaborn. 
 **GitHub Repo:** [Zomato Analysis](https://github.com/Shirodkar-Shubham-GitHub/Zomato_Analysis)  
 
 ### [🎆 Diwali Sales Analysis](https://github.com/Shirodkar-Shubham-GitHub/Diwali_Sales_Analysis)  
