@@ -46,11 +46,8 @@
 An online food ordering system for browsing dishes, managing a cart, and placing orders.  
 **GitHub Repo:** [Online_Food_Ordering_System](https://github.com/Shirodkar-Shubham-GitHub/Online_Food_Ordering_System)  
 
-### [✅ To-Do List](https://github.com/Shirodkar-Shubham-GitHub/django_restapi_todo)  
-A to-do list application with Django REST Framework.  
-
-### [📊 Django Data Analysis](https://github.com/Shirodkar-Shubham-GitHub/Django_Data_Analysis)  
-Web application showcasing data analysis using Django and Python libraries.  
+### [✅ Zomato_Analysis](https://github.com/Shirodkar-Shubham-GitHub/Zomato_Analysis)  
+Data analysis project exploring key trends in Zomato Analysis using Django, Pandas, Matplotlib, Seaborn.
 
 ### [🎆 Diwali Sales Analysis](https://github.com/Shirodkar-Shubham-GitHub/Diwali_Sales_Analysis)  
 Data analysis project exploring trends in Diwali sales using Pandas and Matplotlib.  
@@ -61,7 +58,7 @@ Data analysis project exploring trends in Diwali sales using Pandas and Matplotl
 
 - **Email:** [shubhamshirodkar90@gmail.com](mailto:shubhamshirodkar90@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/shubham-shirodkar-45b3b1282](http://www.linkedin.com/in/shubham-shirodkar-45b3b1282/)  
-- **Portfolio:** [https://mywebsite-1gvb.onrender.com/](https://mywebsite-1gvb.onrender.com/)  
+- **Portfolio:** [https://shubham990shirodkar.pythonanywhere.com/](https://shubham990shirodkar.pythonanywhere.com/)  
 
 ---
 
